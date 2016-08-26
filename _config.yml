@@ -1,7 +1,18 @@
+layout_spectrum: 0.4224315593019128
+typography_spectrum: 0.3524338728748262
+color:
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  brandStrength: 0.4697083053179085
+  lightness: 0.7166527125518769
+  saturation: 0.22571744653396308
+  rhythmicContrast: 0.712546531111002
 name: MichaelTucker
 favicon: null
-layout_spectrum: 0.9365135554689914
-typography_spectrum: 0.335129935760051
 title: Mike @ Oroville Toyota Chevrolet
 description: Your Local Internet Sales Advisor
 cta:
@@ -16,15 +27,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#004d4c'
-    - '#307e7d'
-    - '#ffffff'
-    - '#5fadac'
-    - '#b3d0d0'
-  brandStrength: 0.629627199145034
-  lightness: 0.2023453980218619
-  saturation: 0.2109400627668947
-  rhythmicContrast: 0.2587979862000793
 purpose: []
