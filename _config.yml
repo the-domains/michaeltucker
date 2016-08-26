@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About Me
-    url: miketoyotachevrolet.com/AboutMe
-    type: external
 favicon: null
 title: Mike @ Oroville Toyota Chevrolet
 description: Your Local Internet Sales Advisor
