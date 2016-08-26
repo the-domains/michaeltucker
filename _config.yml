@@ -1,4 +1,3 @@
-layout_spectrum: 0.4224315593019128
 typography_spectrum: 0.3524338728748262
 color:
   brandColors:
@@ -11,20 +10,25 @@ color:
   lightness: 0.7166527125518769
   saturation: 0.22571744653396308
   rhythmicContrast: 0.712546531111002
-name: MichaelTucker
-favicon: null
-title: Mike @ Oroville Toyota Chevrolet
-description: Your Local Internet Sales Advisor
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4224315593019128
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MichaelTucker
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    url: miketoyotachevrolet.com/AboutMe
+    type: external
+favicon: null
+title: Mike @ Oroville Toyota Chevrolet
+description: Your Local Internet Sales Advisor
 purpose: []
